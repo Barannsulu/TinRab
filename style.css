@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+.bolum1 {
+  background-color: #ff4c68;
+  padding: 3% 15% 7% 5%;
+}
+
+.navbar-brand {
+  font-size: 40px !important;
+  margin: 40px;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.nav-item {
+  font-size: 24px;
+  padding-left: 12px;
+  padding-right: 22px;
+  opacity: 0.5;
+}
+
+.nav-item:hover {
+  opacity: 1;
+}
+
+.heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.resim {
+  margin-top: 10px;
+}
+
+.header-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/*BÖLÜM2*/
+
+.bolum2 {
+  padding: 12%;
+}
+
+.box {
+  padding: 4.5%;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 7%;
+}
+
+/*BÖLÜM3*/
+
+.bolum3 {
+  background-color: #ef8172;
+  padding: 7% 15%;
+}
+
+.carousel-text {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.carousel-item img {
+  width: 14%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.logo {
+  width: 70%;
+}
+
+/*BÖLÜM4*/
+
+.bolum4 {
+  padding: 4%;
+}
+
+.bolum4 p {
+  color: #8f8f8f;
+}
+
+.card-header {
+  font-size: 32px;
+}
+
+.bolum4 h2,
+.money {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+/*BÖLÜM5*/
+
+.bolum5 {
+  background-color: #ff4c68;
+  padding: 3%;
+}
+
+.bolum5 h4 {
+  font-size: 42px;
+  color: white;
+  padding: 5%;
+  font-weight: bold;
+}
+
+.bolum5 i {
+  margin-right: 8px;
+}
+
+/*BÖLÜM6*/
+
+.bolum6 {
+  padding: 6%;
+}
+
+.bolum6 a {
+  color: black;
+}
+
+.social {
+  margin: 20px 15px;
+}
